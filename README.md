@@ -9,10 +9,10 @@ $ nasm boot.asm -o bootable.bin
 $ qemu-system-x86_64 bootable.bin
 ```
 
-####Next steps
+#### Next steps
 1. Provide a minimal shell
 
-####References
+#### References
 
 1.  [Intel 64-bit Software Developer's Manual](http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-manual-325462.pdf)
 2.  [Inspired by David A. Dalrymple, Kernel from Scratch Project](http://davidad.github.io/blog/2014/02/18/kernel-from-scratch/)
