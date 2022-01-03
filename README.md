@@ -1,6 +1,7 @@
 # mykernel
 
 My attempt to write a kernel completely in assembly. It does not do much, apart from running a command prompt and spitting out a message but goes through all the steps of any other kernel.
+This project is just a assembly language refresher for me.
 
 Use the following commands to compile and run in [Qemu](http://wiki.qemu.org/Main_Page)
 
