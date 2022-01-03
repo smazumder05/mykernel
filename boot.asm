@@ -1,3 +1,5 @@
+; This simple kernel implementation is Assembly refresher for me
+
 bits 16
 org 0x7c00
 k_boot_start:
